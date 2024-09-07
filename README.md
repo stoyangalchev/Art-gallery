@@ -1,7 +1,7 @@
 # 🎨 Art Gallery
 
 Welcome to **Art Gallery**! 🖼️ A web platform where users can create profiles, upload, edit, and delete their artworks. It's the perfect place to showcase your creativity! ✨
-🌍 Deployed ✅ ![Click Here](https://art-gallery-8b3i.onrender.com/)
+##🌍 Deployed ✅ -> [Click Here](https://art-gallery-8b3i.onrender.com/)
 ## 📸Screenshot
 ![Screenshot](./Screenshot.png)
 ## 🌟 Features
