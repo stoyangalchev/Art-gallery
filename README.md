@@ -22,7 +22,7 @@ Welcome to **Art Gallery**! 🖼️ A web platform where users can create profil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/stoyangalchev/art-gallery.git
+   git clone https://github.com/stoyangalchev/Art-gallery
    ```
 2. Install dependencies:
    ```bash
@@ -49,7 +49,7 @@ Feel free to open issues or submit pull requests. Let's make this platform bette
 
 ## 📜 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 ---
 
