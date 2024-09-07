@@ -2,7 +2,7 @@
 
 Welcome to **Art Gallery**! 🖼️ A web platform where users can create profiles, upload, edit, and delete their artworks. It's the perfect place to showcase your creativity! ✨
 📸Screenshots
-[/Screenshot.png]
+[./Screenshot.png]
 ## 🌟 Features
 
 - 🧑‍💻 **User Registration & Login**: Sign up to create your profile and start sharing your art!
